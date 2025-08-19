@@ -1,4 +1,4 @@
-# Teknorix Jobs API
+# Jobs API
 
 ## How to Run
 
@@ -22,5 +22,3 @@
 - `POST /api/v1/jobs`
 - `PUT /api/v1/jobs/{id}`
 - `GET /api/v1/jobs/{id}`
-- `POST /api/jobs/list` (to be implemented)
-- Department + Location CRUD APIs included similarly.
